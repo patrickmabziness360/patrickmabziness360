@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickmabziness360&label=Profile%20views&color=0e75b6&style=flat" alt="patrickmabziness360" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrickmabziness360" alt="patrickmabziness360" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/patrickmabziness360" target="blank"><img src="https://img.shields.io/twitter/follow/patrickmabziness360?logo=twitter&style=for-the-badge" alt="patrickmabziness360" /></a> </p>
 
